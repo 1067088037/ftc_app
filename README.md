@@ -1,3 +1,25 @@
+# 2018~2019赛季UST程序开源说明
+
+## by 成都石室中学UST（The Union of Science and Technology）
+
+FIRST Tech Challenge赛事的2018~2019赛季对于UST来说已经结束，根据此前的承诺（省赛进入前三就开放源代码）向外界开放本赛季源代码。
+
+回望这个赛季，我们经历了很多。在成都赛中，UST取得了“创新奖”；在重庆赛中，UST取得了“设计奖”，并在小组赛中取得第四、成为了第四联盟队长；在四川省省赛中，UST取得了第一名的好成绩。我们拼过，因此无论最终成败我们都不后悔。
+
+此次代码开源遵从MIT许可协议。被授权人有权利使用、复制、修改、合并、出版发行、散布、再授权及贩售软件及软件的副本。被授权人可根据程序的需要修改授权条款为适当的内容。不过在软件和软件的所有副本中都必须包含版权声明和许可声明。
+
+最后说明本次开源代码的原因：
+1.对FIRST赛事的情怀；
+2.即将退役的不舍；
+3.为今后的UST做好宣传工作。
+
+代码全程使用Kotlin。不要望而却步，你只是没有感受过他的简洁和美
+
+##### 详细的使用说明请参考位于ftc_app-master\TeamCode\src\main\java\org\firstinspires\ftc\teamcode下的《2018~2019赛季UST程序开源说明.docx》
+
+#
+### 以下为FIRST官方声明
+
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
 
