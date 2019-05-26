@@ -15,7 +15,7 @@ FIRST Tech Challenge赛事的2018~2019赛季对于UST来说已经结束，根据
 
 代码全程使用Kotlin。不要望而却步，你只是没有感受过他的简洁和美
 
-##### 详细的使用说明请参考位于ftc_app-master\TeamCode\src\main\java\org\firstinspires\ftc\teamcode下的《2018~2019赛季UST程序开源说明.docx》
+##### 详细的使用说明请参考位于ftc_app-master\TeamCode\src\main\java\org\firstinspires\ftc\teamcode下的《2018~2019赛季UST程序开源说明.pdf》
 
 #
 ### 以下为FIRST官方声明
